@@ -6,16 +6,27 @@ JazzerBot is a program written in Java that was originally created for a high sc
 JazzerBot has the following features as of v2.35:
 
 •  The ability to choose a key in which a solo will be played
+
 •  The ability to choose a tempo in which a solo will be played
+
 •  The ability to choose between different jazz-oriented instruments
+
 •  The ability to choose the length a solo will last (currently in 12 measure increments)
+
 •  The ability to toggle a bass line track on or off
+
 •  The ability to toggle a chord accompaniment track on or off
+
 •  The ability to toggle the solo itself on or off
+
 •  The ability to toggle an alternate last-measure bass line ending on or off
+
 •  The ability to combine differently formatted pieces together to form a complex solo arrangement
+
 •  The ability to port the produced sequence to an external MIDI device
+
 •  The ability to save, load, and play generated solo sequences
+
 •  A simple dialog-based graphical interface.
 
 How to Use:
