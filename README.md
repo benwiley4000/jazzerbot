@@ -3,7 +3,7 @@ User-Customized Jazz Improvisation Generation
 
 JazzerBot is a program written in Java that was originally created for a high school science competition. It gives the user tools to generate simple, improvised jazz solos over a standard blues progression.
 
-As of version 2.35, JazzerBot has the following features:
+JazzerBot has the following features as of v2.35:
 
 •  The ability to choose a key in which a solo will be played
 •  The ability to choose a tempo in which a solo will be played
