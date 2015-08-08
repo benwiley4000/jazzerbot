@@ -1,6 +1,11 @@
 # jazzerbot
 User-Customized Jazz Improvisation Generation
 
+Created by Ben Wiley
+
+NOTE FROM THE PROJECT AUTHOR:
+   I created this project during my sophomore year of high school, with four months' experience programming in Java, and scant understanding of community motifs like object-oriented programming and code readability. Structurally, Jazzerbot is not my best work.
+
 JazzerBot is a program written in Java that was originally created for a high school science competition. It gives the user tools to generate simple, improvised jazz solos over a standard blues progression.
 
 JazzerBot has the following features as of v2.35:
